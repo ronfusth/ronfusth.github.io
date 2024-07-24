@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronfusth.github.io/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/app/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/assets/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/css/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/includes/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/item/sitemap.html.gz
+Sitemap: https://ronfusth.github.io/src/sitemap.html.gz
